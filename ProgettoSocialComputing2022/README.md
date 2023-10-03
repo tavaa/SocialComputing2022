@@ -9,7 +9,6 @@ Costruzione di un sottografo della rete di twitter, utlizzando i moduli di pytho
 ## Contenuto
 - Relazione sul progetto in formato pdf;
 - Notebook Python con spiegazione;
-- Cartella data contente .json;
 - Cartella html, per visualizzazione dei grafici;
 
 ## Utilizzo
